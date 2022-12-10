@@ -26,4 +26,4 @@ git --version
 
 `git add`
 
-туц
+git commit
