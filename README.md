@@ -26,5 +26,5 @@ git --version
 
 ## add comments from DenisKolmykov
 
-### _** anoter one adding**_
+### _** another one adding**_
 
