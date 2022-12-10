@@ -27,3 +27,5 @@ git --version
 `git add` - описание команды.
 
 и еще новые изменения для нового pull request
+
+git commit для второго pull request
